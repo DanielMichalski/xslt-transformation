@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="WINDOWS-1250"?>
+<contract>
+    <printContractParts/>
+    <printConsentPart/>
+    <firmName/>
+    <krsNumber/>
+    <capitalInfo/>
+    <isCsr>false</isCsr>
+    <isConversion>false</isConversion>
+    <isReactivation>false</isReactivation>
+    <isPorting>false</isPorting>
+    <isEBillAllowed>true</isEBillAllowed>
+    <isEBill>false</isEBill>
+    <isDocumentDataValidityApendix>false</isDocumentDataValidityApendix>
+    <isBarcodeEnabled>true</isBarcodeEnabled>
+    <barcodeValue>02070011050005000077523214120405191603291563501001288512395841</barcodeValue>
+    <serviceType>P</serviceType>
+    <contractNo>1</contractNo>
+    <myMusic/>
+    <friendsAndFamily/>
+    <newApprovals>
+        <approval>
+            <prefix>1.</prefix>
+            <position>L</position>
+            <presentation>D</presentation>
+            <content>
+                Wyrażam zgodę:
+            </content>
+            <value>true</value>
+            <isTMZ>false</isTMZ>
+        </approval>
+        <approval>
+            <prefix>2.</prefix>
+            <position>L</position>
+            <presentation>D</presentation>
+            <content>Wyrażam zgodę na
+            </content>
+            <value>true</value>
+            <isTMZ>false</isTMZ>
+        </approval>
+        <approval>
+            <prefix>3.</prefix>
+            <position>L</position>
+            <presentation>D</presentation>
+            <content>Wyrażam zgodę na
+            </content>
+            <value>true</value>
+            <isTMZ>false</isTMZ>
+        </approval>
+    </newApprovals>
+    <contractPeriod>
+        <earlyTermFee>0,00</earlyTermFee>
+        <periodFrom>true</periodFrom>
+    </contractPeriod>
+    <preselCreateRequest>false</preselCreateRequest>
+    <remarks4Porting/>
+</contract>
